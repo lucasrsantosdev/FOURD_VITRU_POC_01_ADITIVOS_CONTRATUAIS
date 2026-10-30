@@ -1,0 +1,6 @@
+contrato_id;aluno_id;marca;sistema;curso;polo;turma;bolsa_percentual;valor_mensal;situacao
+LYC-101;ALUNO-FICT-01;UniCesumar;LYCEUM;Engenharia de Software;Maringa;ES-1;10;750.00;ATIVO
+LYC-202;ALUNO-FICT-02;UniCesumar;LYCEUM;Direito;Curitiba;DIR-2;20;950.00;ATIVO
+GIO-303;ALUNO-FICT-03;Uniasselvi;GIOCONDA;Pedagogia;Blumenau;PED-1;15;600.00;ATIVO
+GIO-404;ALUNO-FICT-04;Uniasselvi;GIOCONDA;Administracao;Joinville;ADM-1;0;700.00;ATIVO
+LYC-505;ALUNO-FICT-05;UniCesumar;LYCEUM;Biomedicina;Londrina;BIO-1;10;990.00;ATIVO

@@ -1,0 +1,12 @@
+{
+  "poc": "POC01_ADITIVOS",
+  "dados": "100% FICTICIOS",
+  "contratos": 5,
+  "eventos_unicos": 4,
+  "aditivos": 3,
+  "aceites_simulados": 2,
+  "pendentes_aceite": 1,
+  "excecoes": 1,
+  "cobrancas_em_revisao": 2,
+  "aviso": "Aceite simulado NAO equivale a assinatura ou validade juridica"
+}

@@ -1,0 +1,5 @@
+evento_id;contrato_id;sistema;data_evento;tipo_evento;motivo;novos_valores_json
+EV-001;LYC-101;LYCEUM;2026-10-05;TRANSFERENCIA_POLO;Mudanca de polo;"{""polo"":""Santos"",""valor_mensal"":""820.00""}"
+EV-002;LYC-202;LYCEUM;2026-10-08;ALTERACAO_BOLSA;Ajuste de bolsa;"{""bolsa_percentual"":""5"",""valor_mensal"":""1100.00""}"
+EV-003;GIO-303;GIOCONDA;2026-10-10;ALTERACAO_TURMA;Alteracao de turma;"{""turma"":""PED-2""}"
+EV-004;GIO-404;GIOCONDA;2026-10-12;CANCELAMENTO;Pedido de cancelamento;"{""situacao"":""CANCELADO""}"
